@@ -2,10 +2,12 @@
 A responsive campsite blog application created with HTML, CSS, JavaScript, Bootstrap, Node.js and MongoDB. 
 
 # Webpage 
-https://yelpcamp-fw.herokuapp.com/
+2023 URL UPDATE:
+https://yelpcamp-8q59.onrender.com
+PLEASE USE THE UPDATED LINK ABOVE TO ACCESS YELPCAMP
 
 # Back-end
-Node.js& Express
+Node.js & Express
 
 # Third-party APIs
 Mapbox
